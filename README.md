@@ -1,5 +1,7 @@
 # rmstickers
 
+api used: https://rickandmortyapi.com/
+
 ## Project setup
 ```
 yarn install
